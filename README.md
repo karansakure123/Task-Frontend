@@ -1,15 +1,21 @@
-# React + Vite
+# Task Manager - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend part of the Task Manager application. It is built using **React.js** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## Setup Instructions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these steps to set up the project on your local machine:
 
-## Expanding the ESLint configuration
+### Prerequisites:
+- Node.js (v14.x or higher)
+- npm (Node package manager)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Task-Backend
-# Task-Backend
-# Task-Frontend
+### Steps to Run:
+
+1. **Clone the Repository**:
+
+   Clone the repository using the following command:
+
+   ```bash
+   git clone https://github.com/karansakure123/Task-Frontend.git
+   cd Task-Frontend
